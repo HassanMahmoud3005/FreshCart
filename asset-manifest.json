@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/FreshCart/static/css/main.ee2bbf5b.css",
+    "main.js": "/FreshCart/static/js/main.067d1ef6.js",
+    "static/media/fa-solid-900.ttf": "/FreshCart/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/bg.png": "/FreshCart/static/media/bg.1c7e19f8c0e4ec2ab771.png",
+    "static/media/fa-brands-400.ttf": "/FreshCart/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/FreshCart/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/FreshCart/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/FreshCart/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/masterCard.png": "/FreshCart/static/media/masterCard.f159334b9a769a1de7b0.png",
+    "static/media/no-internet-removebg-preview.png": "/FreshCart/static/media/no-internet-removebg-preview.ffe8b5e0a2b3e3cd72b5.png",
+    "static/media/fa-regular-400.ttf": "/FreshCart/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/amazon.png": "/FreshCart/static/media/amazon.bf8536dbe2d359ec95cb.png",
+    "static/media/app store.png": "/FreshCart/static/media/app store.10ae4e0db7a4d504f041.png",
+    "static/media/paypal.png": "/FreshCart/static/media/paypal.c5ad69fe375e5c26d47d.png",
+    "static/media/fa-regular-400.woff2": "/FreshCart/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/american-express.png": "/FreshCart/static/media/american-express.66f30910e3fe74d51465.png",
+    "static/media/google play.png": "/FreshCart/static/media/google play.e2853540e0029197d5a5.png",
+    "static/media/freshcart-logo.svg": "/FreshCart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/FreshCart/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/FreshCart/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "static/media/slick.svg": "/FreshCart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FreshCart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FreshCart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FreshCart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FreshCart/index.html",
+    "main.ee2bbf5b.css.map": "/FreshCart/static/css/main.ee2bbf5b.css.map",
+    "main.067d1ef6.js.map": "/FreshCart/static/js/main.067d1ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2bbf5b.css",
+    "static/js/main.067d1ef6.js"
+  ]
+}
